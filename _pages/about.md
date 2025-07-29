@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tobias Martens, well-versed in Tech and curious about Language.
 ======
+I am Tobias Martens, well-versed in Tech and curious about Language.
+
 Find out more about me in one of the subpages!
